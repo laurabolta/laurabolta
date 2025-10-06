@@ -1,16 +1,13 @@
-### AI Student at Autonomous University of Barcelona
-!--
-<!--
-**laurabolta/laurabolta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Student at Autonomous University of Barcelona
 
-Here are some ideas to get you started:
+Interested in Machine Learning, Cybersecurity, and Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education  
+**B.Sc. in Artificial Intelligence** – Autonomous University of Barcelona  
+- Coursework: Machine Learning, Deep Learning, NLP, Computer Vision, Knowledge Representation, Data Engineering
+ 
+## Let’s Connect  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20Bolt%C3%A0-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/laura-bolt%C3%A0-ballesteros-139205389/)
+- [![Email](https://img.shields.io/badge/Email-lboltaball%40gmail.com-red?style=flat&logo=gmail)](mailto:lboltatall@gmail.com)
+- Open to internships, collaborations, and opportunities in AI, Machine Learning, and Cybersecurity.  
