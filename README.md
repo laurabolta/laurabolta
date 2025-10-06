@@ -1,5 +1,5 @@
-### **Hi there 👋**
-<!--
+### AI Student at Autonomous University of Barcelona
+!--
 <!--
 **laurabolta/laurabolta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
